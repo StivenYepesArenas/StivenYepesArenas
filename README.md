@@ -1,6 +1,6 @@
 -  Hola. 👋 Soy Estiven Yepes Arenas
 - 👀 Apacionado por el mundo de la progamacion asi que aca estamos...
-- 🌱 Actualemnte  estudiante programacion fullStak que en realidad es mi inicio..veremos como termina 
+- 🌱 Estudiando programacion fullStak que en realidad es mi inicio..veremos como termina 
 - 💞️ 
 
 
